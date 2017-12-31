@@ -1,12 +1,12 @@
+|  RIT School of Interactive Games & Media | Professor Elizabeth Lawley |
+|--------------------------------|-----------------------------------------------------|
 # IGME-220 Game Design & Development I, Spring 2018: Syllabus
 
 ## Instructor and Class Details
-- Professor Elizabeth Lawley
-- Email: Elizabeth.Lawley@rit.edu
-- Slack: https://lawley-220-spring2018.slack.com/
-- Office Hours: T 3:30-5:30pm, Th 2-4pm (room TBD)
 - Class Meetings: T 2-3:20pm, Th 12-1:20pm in Room 11
 - [Course Topics & Schedule](Schedule.md)
+- Slack: https://lawley-spring2018.slack.com/
+- Office Hours: T 3:30-5:30pm, Th 2-4pm (room TBD)
 
 ## Course Catalog Description 
 This course examines the core process of game design, from ideation and structured brainstorming in an entertainment technology context through the examination of industry standard processes and techniques for documenting and managing the design process. This course specifically examines techniques for assessing and quantifying the validity of a given design, for managing innovation and creativity in a game development-specific context, and for world and character design. Specific emphasis is placed on both the examination and deconstruction of historical successes and failures, along with presentation of ethical and cultural issues related to the design and development of interactive software and the role of individuals in a team-oriented design methodology. Students in this class are expected to actively participate and engage in the culture of design and critique as it relates to the field.
