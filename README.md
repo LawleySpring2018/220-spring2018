@@ -16,6 +16,7 @@ Required Text: Tracy Fullerton’s [Game Design Workshop, 3rd Edition](http://ez
 
 In addition to the required text, there will be a number of online readings linked from the [weekly topic schedule](Schedule.md). 
 
+
 MyCourses will *only* be used for grading (and the occasional copyrighted reading), not for distribution of materials or communication. There will be links in myCourses pointing you to this Github repository and to our class Slack. 
 
 ## Course Organization
