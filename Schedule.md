@@ -14,8 +14,8 @@
 - [Week 10 (Mar 27/29): Play & Meaning](#week10)
 - [Week 11 (Apr 3/5): Motiviation & Gamification](#week11)
 - [Week 12 (Apr 10/12): Playtest 2](#week12)
-- [Week 13 (Apr 17/19): Understanding the Game Industry](#week13)
-- [Week 14 (Apr 24/26): Selling Yourself & Your Ideas](#week14)
+- [Week 13 (Apr 17/19): Sellng Yourself & Your Ideas; Reboot Develop Conference](#week13)
+- [Week 14 (Apr 24/26): Understanding the Game Industry](#week14)
 
 <hr>
 
@@ -45,7 +45,7 @@
 
 ## <a name="week12">Week 12</a> (Apr 10/12): Playtest 2
 
-## <a name="week13">Week 13</a> (Apr 17/19): Understanding the Game Industry
+## <a name="week13">Week 13</a> (Apr 17/19): Selling Yourself & Your Ideas; Reboot Develop Conference
 
-## <a name="week14">Week 14</a> (Apr 24/26): Selling Yourself & Your Ideas
+## <a name="week14">Week 14</a> (Apr 24/26): Understanding the Game Industry
 
