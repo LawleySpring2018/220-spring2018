@@ -5,7 +5,7 @@
 ## Instructor and Class Details
 - Class Meetings: T 2-3:20pm, Th 12-1:20pm in Room 11
 - [Course Topics & Schedule](Schedule.md)
-- Slack: https://lawley-220-spring2018.slack.com/
+- Slack: [#igme220 channel in dbv-sa-2018](https://dbv-sa-2018.slack.com/messages/C8SEBR950)
 - Office Hours: T 3:30-5:30pm, Th 2-4pm (room TBD)
 
 ## Course Catalog Description 
