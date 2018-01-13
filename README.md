@@ -1,6 +1,6 @@
-|  RIT School of Interactive Games & Media | Professor Elizabeth Lawley |
-|--------------------------------|-----------------------------------------------------|
-# IGME-220 Game Design & Development I, Spring 2018: Syllabus
+|  RIT School of Interactive Games & Media | Spring 2018, Dubrovnik, Croatia | Professor Elizabeth Lawley |
+|----|----|----|
+# IGME-220 Game Design & Development I
 
 ## Instructor and Class Details
 - Class Meetings: T 2-3:20pm, Th 12-1:20pm in Room 11
@@ -29,7 +29,7 @@ The schedule of topics, readings, and exercises can be found in the [Schedule.md
 Because much of the class revolves around in-class activities, attendance is critical. If you miss a class, you should check Github and/or Slack for information on what was done, and contact me about options for making up the in-class work. If you know you'll be missing a class due to illness or a conflict, please let me know before class starts.  
 
 ## Grading
-Your final grade will be based on your projects (70%), in-class exercises (20%), and your overall participation in-class and/or in Slack (10%).
+Your final grade will be based on your in-class challenges (10% of final grade), game analyses (20%.
 
 I give only three possible final grades in this class. You'll receive a grade of A ("good work!"), C ("you passed, but your work was unimpressive"), or F ("you have not mastered this material"), based on your overall average for the class. Here's the breakdown:
 
@@ -39,13 +39,39 @@ I give only three possible final grades in this class. You'll receive a grade of
 | 65%-82.9%	| C |
 | 0-64.9%	| F |
 
-### In-Class Challenges (10% of final grade)
+## Individual Assignments (60% of total grade)
 
-### Game Analyses (20% of final grade)
+### Game Idea Proposal & Pitch (5%)
+Part 1: Post a short game idea proposal for the group project to the specified forum. Evaluation will be based on quality of idea and of the writing.
+Part 2: Give a 30-60 second pitch for your game idea to the class. At the end, the class will vote on which ideas to adopt for development. Evaluation based on quality of idea and presentation of pitch. 
 
+### Analog Game Analysis Paper (10%)
+Short paper using an analytic framework to discuss a non-digital game. 
 
-### Attendance & Class Participation (10% of final grade)
-You are expected to attend class regularly. In some cases, I will announce that attendance is optional *if* you complete that day's exercise before the start of class. 
+### Digital Game Analysis Paper (10%)
+Short paper using an analytic framework to discuss a non-digital game. 
+
+### Prototype Game Analysis Paper (10%)
+Short paper using an analytic framework to discuss another group’s game prototype. 
+
+### In-Class Challenges & Homework Assignments (15%)
+
+### Attendance & Participation (10%)
+We will have frequent discussions and in-class exercises during our Wednesday meeting time. Participation in these is a critical part of the class. If you don’t show up for class, obviously your participation grade will suffer! 
+
+## Group Game Project (40% of total grade)
+
+### Design Document (10%)
+A full design document for your group’s game. This will be written over the course of the semester, with separate deliverables. 
+
+### Group Game Prototype (10%)
+A prototype of your game, suitable for playtesting by other groups. 
+
+### Group Peer Evaluation (10%)
+You will have an opportunity twice during the semester to evaluate your group members.  
+
+### Group Final Presentations (10%)
+Presentation of game concept to me and possibly some outside experts. Evaluation based on quality of idea, comprehensiveness of treatment, and quality of presentation. 
 
 	
 ## Additional Policies
