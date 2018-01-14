@@ -7,11 +7,11 @@
 - [Week 4 (Feb 6/8): Conceptualization & Documentation](#week4)
 - [Week 5 (Feb 13/15): Team Structures;  Stages and Methods of Development](#week5)
 - [Week 6 (Feb 20/22): System Dynamics & Game Balance](#week6)
-- [Week 7 (Feb 27/Mar 1): Understanding Players](#week7)
-- [Week 8 (Mar 6/8): Prototyping & Playtesting](#week8)
+- [Week 7 (Feb 27/Mar 1): Prototyping & Playtesting](#week7)
+- [Week 8 (Mar 6/8): Understanding Players](#week8)
 - Spring Break (Mar 10-18)
 - [Week 9 (Mar 20/22): Functionality, Completeness, & Balance](#week9)
-- [Week 10 (Mar 27/29): Playtest 1](#week10)
+- [Week 10 (Mar 27/29): Play & Meaning; Playtest 1](#week10)
 - [Week 11 (Apr 3/5): Fun & Accessibility](#week11)
 - [Week 12 (Apr 10/12): Understanding the Game Industry; Playtest 2](#week12)
 - [Week 13 (Apr 17/19): Sellng Yourself & Your Ideas; Reboot Develop Conference](#week13)
@@ -24,23 +24,25 @@
 
 ### Thursday Readings
 
-* Fullerton Chapter 1: The Role of the Game Designer 
+* Fullerton, Chapter 1: The Role of the Game Designer
+* Schell, [Chapter 1: In the Beginning, There Is the Designer and Chapter 2: The Designer Creates an Experience (PDF on myCourses)]()
 
 
 ## <a name="week2">Week 2</a> (Jan 23/25): The Structure of Games
 
 ### Tuesday Readings
 * Fullerton Chapter 2: The Structure of Games
-* [DeKoven, The Well-Played Game, chapters 1-2 (PDF on myCourses)](https://mycourses.rit.edu/d2l/le/content/676755/viewContent/4916811/View) 
+* [DeKoven (2013), *The Well-Played Game 3e*, chapters 1-2 (PDF on myCourses)](https://mycourses.rit.edu/d2l/le/content/676755/viewContent/4916811/View) 
 
 ### Thursday Readings
-
+* [Hunicke et al (2004) *MDA: A Formal Approach to Game Design and Game Research* (myCourses PDF)](https://mycourses.rit.edu/d2l/le/content/676755/viewContent/4921580/View)
 * Schell, Chapter 4: The Game Consists of Elements (PDF on myCourses)
 
 ## <a name="week3">Week 3</a> (Jan 30/Feb 1): Formal & Dramatic Elements of Games
 
 ### Tuesday Readings
 * Fullerton Chapter 3: Working with Formal Elements
+* 
 
 ### Thursday Readings
 * Fullerton Chapter 4: Working with Dramatic Elements
@@ -70,7 +72,8 @@
 ## <a name="week7">Week 7</a> (Feb 27/Mar 1): Understanding Players 
 
 * Nick Yee, ["Beyond 50/50: Breaking Down The Percentage of Female Gamers by Genre"](https://quanticfoundry.com/2017/01/19/female-gamers-by-genre/)
-* stats on games
+* ESA [2017 Essential Facts About the Video Game Industry](http://www.theesa.com/article/2017-essential-facts-computer-video-game-industry/)
+* [2017 Video Game Trends and Statistics – Who’s Playing What and Why?](https://www.bigfishgames.com/blog/2017-video-game-trends-and-statistics-whos-playing-what-and-why/)
 
 ## <a name="week8">Week 8</a> (Mar 6/8): Prototyping & Playtesting
 

@@ -16,11 +16,10 @@ Required Text: Tracy Fullerton’s [Game Design Workshop, 3rd Edition](http://ez
 
 In addition to the required text, there will be a number of online readings linked from the [weekly topic schedule](Schedule.md). 
 
-
 MyCourses will *only* be used for grading (and the occasional copyrighted reading), not for distribution of materials or communication. There will be links in myCourses pointing you to this Github repository and to our class Slack. 
 
 ## Course Organization
-Listening to a lecture is seldom the best way to learn to create things. As a result, when new topics are introduced I will expect you to complete the assigned readings or tutorials *before* the class where we discuss that topic. In most of our class meetings, I will give a short lecture providing context and additional information about the assigned materials, and then we'll do a short in-class exercise to get hands-on experience with the concepts being discussed.
+Listening to a lecture is seldom the best way to learn to create things. As a result, when new topics are introduced I will expect you to complete the assigned readings *before* the class where we discuss that topic. In most of our class meetings, I will give a short lecture providing context and additional information about the assigned materials, and then we'll do a short in-class exercise to get hands-on experience with the concepts being discussed.
 
 ## [Course Topics & Schedule](Schedule.md)
 The schedule of topics, readings, and exercises can be found in the [Schedule.md](Schedule.md) file. Materials for in-class exercises can be found in the Github folder for that week's class, and will be linked from the schedule.  It is your responsibility to check the schedule for each week's readings. You will find the in-class exercises very challenging if you do not complete the readings and/or tutorials for that week. 
@@ -29,7 +28,9 @@ The schedule of topics, readings, and exercises can be found in the [Schedule.md
 Because much of the class revolves around in-class activities, attendance is critical. If you miss a class, you should check Github and/or Slack for information on what was done, and contact me about options for making up the in-class work. If you know you'll be missing a class due to illness or a conflict, please let me know before class starts.  
 
 ## Grading
-Your final grade will be based on your in-class challenges (10% of final grade), game analyses (20%.
+Your final grade will be based on your individual exercises and assignments (60%) and on your group's game prototype development (40%). 
+
+I accept late work, but there is a grade deduction of 10% of the grade per day. 
 
 I give only three possible final grades in this class. You'll receive a grade of A ("good work!"), C ("you passed, but your work was unimpressive"), or F ("you have not mastered this material"), based on your overall average for the class. Here's the breakdown:
 
@@ -40,6 +41,9 @@ I give only three possible final grades in this class. You'll receive a grade of
 | 0-64.9%	| F |
 
 ## Individual Assignments (60% of total grade)
+
+### In-Class Challenges & Homework Assignments (20%)
+I will regularly assign in-class activities and short homework assignments. I will not offer opportunities to make up in-class work, but I will drop the lowest five grades in this category. 
 
 ### Game Idea Proposal & Pitch (5%)
 Part 1: Post a short game idea proposal for the group project to the specified forum. Evaluation will be based on quality of idea and of the writing.
@@ -54,10 +58,8 @@ Short paper using an analytic framework to discuss a non-digital game.
 ### Prototype Game Analysis Paper (10%)
 Short paper using an analytic framework to discuss another group’s game prototype. 
 
-### In-Class Challenges & Homework Assignments (15%)
-
-### Attendance & Participation (10%)
-We will have frequent discussions and in-class exercises during our Wednesday meeting time. Participation in these is a critical part of the class. If you don’t show up for class, obviously your participation grade will suffer! 
+### Class Participation (5%)
+Participation in activities and discussions--in class and/or in Slack--is a critical part of the class. 
 
 ## Group Game Project (40% of total grade)
 
@@ -82,7 +84,7 @@ Presentation of game concept to me and possibly some outside experts. Evaluation
 - You have one semester after the class has ended to challenge your grade. 
 
 ### Communication
-Any updates to assignments or the syllabus will be posted in Github and automatically announced in Slack. Major announcements (such as class cancellations) will be posted in the general channel in Slack. This means you should regularly check the class Slack, and consider setting up notifications for the general channel. I check both email and Slack frequently, and will try to always respond within 24 hours (the exception to this is when I’m traveling, for which I’ll give you advance notice). You will get a faster response using Slack, with the bonus that other people in the class can help answer questions, as well. If you want to send me email, please make sure you send it from your RIT account to my primary RIT email: Elizabeth dot Lawley at rit dot edu. 
+Any updates to assignments or the syllabus will be posted in Github and automatically announced in Slack. Major announcements (such as class cancellations) will be posted in the general channel in Slack. This means you should regularly check the class Slack, and consider setting up notifications for the #announcements channel and the #igme220 channel. I check both email and Slack frequently, and will try to always respond within 24 hours (the exception to this is when I’m traveling, for which I’ll give you advance notice). You will get a faster response using Slack, with the bonus that other people in the class can help answer questions, as well. If you want to send me email, please make sure you send it from your RIT account to my primary RIT email: Elizabeth dot Lawley at rit dot edu. 
 ### Late Policy
 If you are having problems with an assignment or have an emergency that may make you late in submitting your work, please contact me before the due date. Late assignments that have not been cleared with me before the due date may not be accepted, or may incur a grade penalty. 
 ### Missed Classes
