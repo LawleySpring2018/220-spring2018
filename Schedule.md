@@ -42,7 +42,7 @@
 
 ### Tuesday Readings
 * Fullerton Chapter 3: Working with Formal Elements
-* 
+
 
 ### Thursday Readings
 * Fullerton Chapter 4: Working with Dramatic Elements
