@@ -27,6 +27,7 @@
 * Fullerton, Chapter 1: The Role of the Game Designer
 * Schell, [Chapter 1: In the Beginning, There Is the Designer and Chapter 2: The Designer Creates an Experience (PDF on myCourses)](https://mycourses.rit.edu/d2l/le/content/676755/viewContent/4921621/View)
 
+### [Thursday Slides](w1b-lecture.pdf)
 ### [Thursday Exercise/Homework](w1b-exercise.md)
 
 
