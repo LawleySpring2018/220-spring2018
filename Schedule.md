@@ -37,6 +37,8 @@
 * Fullerton Chapter 2: The Structure of Games
 * [DeKoven (2013), *The Well-Played Game 3e*, chapters 1-2 (PDF on myCourses)](https://mycourses.rit.edu/d2l/le/content/676755/viewContent/4916811/View) 
 
+### [Tuesday Homework: Game Description and Observation] (w2a-exercise.md)
+
 ### Thursday Readings
 * [Hunicke et al (2004) *MDA: A Formal Approach to Game Design and Game Research* (myCourses PDF)](https://mycourses.rit.edu/d2l/le/content/676755/viewContent/4921580/View)
 * Schell, Chapter 4: The Game Consists of Elements (PDF on myCourses)
