@@ -4,7 +4,7 @@
 # Week 2: Game Description and Observation Exercise
 
 ## Step 1: Choose and Describe a Game
-Choose a game that you have easy access to (e.g. something on your phone, something I've brought to class, or something you can play on a lab computer). Spend 5-10 minutes writing a *brief* description of the game, including as much of the following as possible (you'll be able to revise and expand this later):
+Choose a game that you have easy access to--e.g. something on your phone, something I've brought to class, or something you can play on a lab computer. I'd prefer it to be a game that doesn't take more than 30 minutes to play, although that could be for a starting level rather than the entire game.  Spend 5-10 minutes writing a *brief* description of the game, including as much of the following as possible (you'll be able to revise and expand this later):
 * Summary (1-2 lines max)
 * Core Dynamic(s)
 * Players
@@ -16,7 +16,7 @@ Choose a game that you have easy access to (e.g. something on your phone, someth
 ***List of core dynamics from today's lecture:*** Territorial Acquisition, Exploration, Prediction, Spatial Reasoning/Alignment, Matching, Survival, Destruction, Building, Collection, Chasing/Evading, Trading, Race to the End, Capture, Escape/Rescue, Forbidden Act
 
 ## Step 2: Test the Game Yourself
-Take on the role of a tester. Play the game you wrote about in the quiz, and observe yourself as you play. Pay attention to what you're doing and feeling as you play the game. Take detailed notes on your behaviors, actions, and reactions.
+Take on the role of a tester. Play the game you wrote about in the quiz, and observe yourself as you play. If it's a digital game, start a new game so that you can observe the new user experience. Pay attention to what you're doing and feeling as you play the game. Take detailed notes on your behaviors, actions, and reactions.
 
 ## Step 3: Observe Other Players
 Repeat this experience while watching another person or group play the same game. (It can be a classmate, but doesn't have to be.) This time take notes on the other person's behaviors, actions, and reactions. If possible, try to avoid doing this while you're also playing the game.
