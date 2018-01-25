@@ -11,4 +11,4 @@ And finally, in the MDA article, Hunicke, LeBlanc, and Zubek discuss the MDA (Me
 
 Choose one of the three models you read about, and use it to analyze two different games-one analog game (a card game, board game, playground game, etc), and one digital game. Include a 1-2 sentence description of the game at the beginning, and then use the model you selected to describe the elements of the game.  (You can use the game you observed in the last exercise, but you're not required to.)
 
-Put both of your game descriptions into a single document and upload it to the dropbox in myCourses by noon on Saturday (27 Jan).
+Put both of your game descriptions into a single document and upload it to the dropbox in myCourses by 8am on Sunday (27 Jan).
