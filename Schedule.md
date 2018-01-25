@@ -43,15 +43,25 @@
 * [Hunicke et al (2004) *MDA: A Formal Approach to Game Design and Game Research* (myCourses PDF)](https://mycourses.rit.edu/d2l/le/content/676755/viewContent/4921580/View)
 * Schell, Chapter 4: The Game Consists of Elements (PDF on myCourses)
 
+### [Thursday Exercise/Homework: Applying Game Models to Analysis](w2b-exercise.md)
+
+
 ## <a name="week3">Week 3</a> (Jan 30/Feb 1): Formal & Dramatic Elements of Games
 
 ### Tuesday Readings
 * Fullerton Chapter 3: Working with Formal Elements
-
-
-### Thursday Readings
 * Fullerton Chapter 4: Working with Dramatic Elements
 
+### Thursday Readings
+* [Wikipedia List of Game Genres](https://en.wikipedia.org/wiki/List_of_video_game_genres)
+* [Mirillis' Complete List of Game Genres](https://mirillis.com/blog/en/complete-list-of-game-genres/)
+* [Board Game Geek: Game Genres](https://boardgamegeek.com/wiki/page/Game_Genres)
+* [Boardgaming.com: Game Themes](http://boardgaming.com/themes)
+* [Board Game Geek Forums: Meta-List Game Themes](https://boardgamegeek.com/geeklist/15398/meta-list-game-themes)
+* [Wikipedia: Video Games by Theme](https://en.wikipedia.org/wiki/Category:Video_games_by_theme)
+* [Orteil's Game Idea Generator](http://orteil.dashnet.org/gamegen)
+
+### [Thursday Exercise: Genre/Audience Brainstorming](w3b-exercise.md)
 
 ## <a name="week4">Week 4</a> (Feb 6/8): Conceptualization & Documentation
 
