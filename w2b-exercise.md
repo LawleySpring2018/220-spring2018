@@ -5,7 +5,7 @@
 
 In Chapter Three of the Fullerton book, she describes the many formal elements that make up games. In the in-class exercise, you focused on those elements in the context of a very simple game.
 
-In Chapter Four of the Schell book, he uses the MAST four-part model-Mechanics, Aesthetics, Story, and Technology. While it seems simpler, many of the elements that Fullerton discusses are grouped together in Schell's very broad "Mechanics" category.
+In Chapter Four of the Schell book, he uses the MAST four-part model: Mechanics, Aesthetics, Story, and Technology. While it seems simpler, many of the elements that Fullerton discusses are grouped together in Schell's very broad "Mechanics" category.
 
 And finally, in the MDA article, Hunicke, LeBlanc, and Zubek discuss the MDA (Mechanics, Dynamics, and Aesthetics)--or "Rules, System, and Fun"--which focuses as much on the player experience as it does on the components of the game. 
 

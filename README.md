@@ -42,8 +42,8 @@ I give only three possible final grades in this class. You'll receive a grade of
 
 ## Individual Assignments (60% of total grade)
 
-### In-Class Challenges & Homework Assignments (20%)
-I will regularly assign in-class activities and short homework assignments. I will not offer opportunities to make up in-class work, but I will drop the lowest five grades in this category. 
+### In-Class Exercises & Homework Assignments (20%)
+I will regularly assign in-class activities and short homework assignments. I may also give quizzes on the readings. I will not offer opportunities to make up in-class work or quizzes, but I will drop the lowest five grades in this category. Grades for exercises and homework will be assessed as Excellent (100%), Good (85%), Fair (70%), Poor (50%), or Unacceptable (0%)
 
 ### Game Idea Proposal & Pitch (5%)
 Part 1: Post a short game idea proposal for the group project to the specified forum. Evaluation will be based on quality of idea and of the writing.
