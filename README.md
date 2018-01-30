@@ -49,14 +49,11 @@ I will regularly assign in-class activities and short homework assignments. I ma
 Part 1: Post a short game idea proposal for the group project to the specified forum. Evaluation will be based on quality of idea and of the writing.
 Part 2: Give a 30-60 second pitch for your game idea to the class. At the end, the class will vote on which ideas to adopt for development. Evaluation based on quality of idea and presentation of pitch. 
 
-### [Analog Game Analysis Paper (10%)](analogpaper.md)
+### [Analog Game Analysis Paper (15%)](analogpaper.md)
 Short paper using an analytic framework to discuss a non-digital game. 
 
-### Digital Game Analysis Paper (10%)
+### Digital Game Analysis Paper (15%)
 Short paper using an analytic framework to discuss a non-digital game. 
-
-### Prototype Game Analysis Paper (10%)
-Short paper using an analytic framework to discuss another group’s game prototype. 
 
 ### Class Participation (5%)
 Participation in activities and discussions--in class and/or in Slack--is a critical part of the class. 
