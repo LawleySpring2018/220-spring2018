@@ -4,13 +4,13 @@
 - [Week 1 (Jan 16/18): Course Overview; Game Design](#week1)
 - [Week 2 (Jan 23/25): The Structure of Games](#week2)
 - [Week 3 (Jan 30/Feb 1): Formal and Dramatic Elements of Games](#week3)
-- [Week 4 (Feb 6/8): Conceptualization & Documentation](#week4)
+- [Week 4 (Feb 6/8): Conceptualization & Prototyping](#week4)
 - [Week 5 (Feb 13/15): Team Structures;  Stages and Methods of Development](#week5)
-- [Week 6 (Feb 20/22): System Dynamics & Game Balance](#week6)
-- [Week 7 (Feb 27/Mar 1): Prototyping & Playtesting](#week7)
-- [Week 8 (Mar 6/8): Understanding Players](#week8)
+- [Week 6 (Feb 20/22): System Dynamics & Playtesting](#week6)
+- [Week 7 (Feb 27/Mar 1): Playtest 1](#week7)
+- [Week 8 (Mar 6/8): Functionality, Completeness, & Balance](#week8)
 - Spring Break (Mar 10-18)
-- [Week 9 (Mar 20/22): Functionality, Completeness, & Balance](#week9)
+- [Week 9 (Mar 20/22): Understanding Players](#week9)
 - [Week 10 (Mar 27/29): Play & Meaning; Playtest 1](#week10)
 - [Week 11 (Apr 3/5): Fun & Accessibility](#week11)
 - [Week 12 (Apr 10/12): Understanding the Game Industry; Playtest 2](#week12)
@@ -63,57 +63,60 @@
 
 ### [Thursday Exercise: Genre/Audience Brainstorming](w3b-exercise.md)
 
-## <a name="week4">Week 4</a> (Feb 6/8): Conceptualization & Documentation
+## <a name="week4">Week 4</a> (Feb 6/8): Conceptualization & Prototyping
 
 ### Tuesday Readings
 * Fullerton Chapter 6: Conceptualization
 
 ### Thursday Readings
-* Fullerton Chapter 14: Communicating your Design
+* Fullerton Chapter 7: Prototyping
 
-## <a name="week5">Week 5</a> (Feb 13/15): Team Structures;  Stages and Methods of Development
+## <a name="week5">Week 5</a> (Feb 13/15): Teams and Development Process
 
 ### Tuesday Readings
 * Fullerton Chapter 12: Team Structures
 
+
 ### Thursday Readings
 * Fullerton Chapter 13: Stages & Methods of Development
+* Fullerton Chapter 14: Communicating Your Design
 
-## <a name="week6">Week 6</a> (Feb 20/22): System Dynamics
+## <a name="week6">Week 6</a> (Feb 20/22): System Dynamics and Playtesting
 
 ### Tuesday Readings
 * Fullerton Chapter 5: Working with System Dynamics
 
-## <a name="week7">Week 7</a> (Feb 27/Mar 1): Understanding Players 
+### Thursday Readings
+* Fullerton Chapter 9: Playtesting
+
+
+## <a name="week7">Week 7</a> (Feb 27/Mar 1): Playtest 1 & Critique
+
+## <a name="week8">Week 8</a> (Mar 6/8): Functionality, Completeness, & Balance
+
+### Tuesday Readings
+* Fullerton Chapter 10: Functionality, Completeness, and Balance
+
+
+### Thursday Readings
+
+
+## Spring Break (Mar 10-18)
+
+## <a name="week9">Week 9</a> (Mar 20/22): Understanding Players 
 
 * Nick Yee, ["Beyond 50/50: Breaking Down The Percentage of Female Gamers by Genre"](https://quanticfoundry.com/2017/01/19/female-gamers-by-genre/)
 * ESA [2017 Essential Facts About the Video Game Industry](http://www.theesa.com/article/2017-essential-facts-computer-video-game-industry/)
 * [2017 Video Game Trends and Statistics – Who’s Playing What and Why?](https://www.bigfishgames.com/blog/2017-video-game-trends-and-statistics-whos-playing-what-and-why/)
 
-## <a name="week8">Week 8</a> (Mar 6/8): Prototyping & Playtesting
-
-### Tuesday Readings
-* Fullerton Chapter 7: Prototyping
-* Fullerton Chapter 8: Digital Prototyping
-
-### Thursday Readings
-* Fullerton Chapter 9: Playtesting
-
-## Spring Break (Mar 10-18)
-
-## <a name="week9">Week 9</a> (Mar 20/22): Functionality, Completeness, & Balance
-
-### Tuesday Readings
-* Fullerton Chapter 10: Functionality, Completeness, and Balance
-
-## <a name="week10">Week 10</a> (Mar 27/29): Playtest 1
-
-## <a name="week11">Week 11</a> (Apr 3/5): Fun & Accessibility
+## <a name="week10">Week 10</a> (Mar 27/29): Fun & Accessibility
 
 ### Tuesday Readings
 * Fullerton Chapter 11: Fun and Accessibility
 
-## <a name="week12">Week 12</a> (Apr 10/12): Understanding the Game Industry; Playtest 2
+## <a name="week11">Week 11</a> (Apr 3/5): Playtest 2
+
+## <a name="week12">Week 12</a> (Apr 10/12): Understanding the Game Industry
 
 ### Tuesday Readings
 * Fullerton Chapter 15: Understanding the New Game Industry
