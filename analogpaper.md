@@ -38,4 +38,4 @@ Ideas and concepts that are not your original ideas ***must be cited***. Sources
 * It should be spell-checked and proofread. Proper grammar and word usage is required.
 
 ## Rubric
-*I will provide a detailed rubric by Friday, 2 Feb*
+![Game Analysis Rubric](analysis-rubric.png)
