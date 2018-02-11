@@ -75,7 +75,8 @@
 
 ### Tuesday Readings
 * Fullerton Chapter 12: Team Structures
-
+* [Raph Koster: Typical Game Dev Teams](https://www.raphkoster.com/2007/11/02/typical-game-dev-teams/)
+* [Ken Birdwell: The Cabal (in myCourses)](https://mycourses.rit.edu/d2l/le/content/676755/viewContent/5021140/View)
 
 ### Thursday Readings
 * Fullerton Chapter 13: Stages & Methods of Development
