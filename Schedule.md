@@ -81,11 +81,13 @@
 ### Thursday Readings
 * Fullerton Chapter 13: Stages & Methods of Development
 * Fullerton Chapter 14: Communicating Your Design
+* [Stone Librande @ GDC 2010: One-Page Designs](https://www.gdcvault.com/play/1012356/One-Page)
 
 ## <a name="week6">Week 6</a> (Feb 20/22): System Dynamics and Playtesting
 
 ### Tuesday Readings
 * Fullerton Chapter 5: Working with System Dynamics
+* [Storyboarding](https://multimedia.journalism.berkeley.edu/tutorials/starttofinish-storyboarding/)
 
 ### Thursday Readings
 * Fullerton Chapter 9: Playtesting
