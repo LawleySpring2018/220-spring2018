@@ -72,7 +72,10 @@
 * Fullerton Chapter 7: Prototyping
 
 ## <a name="week5">Week 5</a> (Feb 13/15): Teams and Development Process
-On Tuesday we'll finalize 
+On Tuesday we'll do final game pitches, and talk about refinement and documentation of ideas. I'll announce the chosen games and team compositions by the end of the day Tuesday. 
+
+On Thursday you'll work on creating your one-page design document, and clear walkthrough or storyboard of the gameplay experience. 
+
 ### Tuesday Readings
 * Fullerton Chapter 12: Team Structures
 * [Raph Koster: Typical Game Dev Teams](https://www.raphkoster.com/2007/11/02/typical-game-dev-teams/)
