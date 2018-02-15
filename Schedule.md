@@ -87,12 +87,14 @@ On Thursday you'll work on creating your one-page design document, and clear wal
 * [Stone Librande @ GDC 2010: One-Page Designs](https://www.gdcvault.com/play/1012356/One-Page)
 * [Storyboarding](https://multimedia.journalism.berkeley.edu/tutorials/starttofinish-storyboarding/)
 
+### [Thursday Homework Exercise: Storyboard Creation](w5b-homework.md)
+
+
 ## <a name="week6">Week 6</a> (Feb 20/22): Game System Design & Aesthetics
 This week you'll work on clearly defining the mechanics, dynamics, and aesthetics of your game, so that you're able to begin prototyping and testing it. 
 
 ### Tuesday Readings
 * Fullerton Chapter 5: Working with System Dynamics
-
 
 ### Thursday Readings
 * [The Aesthetics of Game Art and Game Design](https://www.gamasutra.com/view/feature/185676/the_aesthetics_of_game_art_and_.php)
