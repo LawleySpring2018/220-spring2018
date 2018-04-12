@@ -140,7 +140,7 @@ On Thursday, your groups will give a five-minute pitch for your game to me and t
 ### Readings
 * Nick Yee, ["Beyond 50/50: Breaking Down The Percentage of Female Gamers by Genre"](https://quanticfoundry.com/2017/01/19/female-gamers-by-genre/)
 * ESA [2017 Essential Facts About the Video Game Industry](http://www.theesa.com/article/2017-essential-facts-computer-video-game-industry/)
-* [2017 Video Game Trends and Statistics – Who’s Playing What and Why?](https://www.bigfishgames.com/blog/2017-video-game-trends-and-statistics-whos-playing-what-and-why/)
+
 
 ## <a name="week11">Week 11</a> (Apr 3/5): Playtest 2
 
@@ -148,6 +148,21 @@ On Thursday, your groups will give a five-minute pitch for your game to me and t
 
 ### Tuesday Readings
 * Fullerton Chapter 15: Understanding the New Game Industry
+
+### Thursday Readings
+* 2016 CGDA Game Industry Book (uploaded to Slack) 
+* [2017 Essential Facts About the Video Game Industry](http://www.theesa.com/article/2017-essential-facts-computer-video-game-industry/) (Entertainment Software Association)
+
+### Thursday Homework
+For next Tuesday's class: 
+1) Review the  companies profiled in the CGDA book. Make a list of the companies that still appear to be actively involved in game design/development. 
+2) Can you find any Croatian game companies that aren't listed in the CGDA book? Add them to your list. 
+3) Going beyond your list:
+  * US Students: Pick one of the companies from your list and dig deep; play their game(s) if you can. Are they doing different work now than they were when they were written about 2-3 years ago? How big are they now/how many people work there? (Try checking LinkedIn.) 
+  * Croatian Students: Look through Croatian media discussions of the game industry to find out how it's being perceived by the public, by the business community, and by gamers. Is there an active developers' community or website? (There used to be [a group on LinkedIn](https://www.linkedin.com/groups/1214207), but it hasn't seen any activity in years. There's a [closed group on FB](https://www.facebook.com/groups/gamedevcro/) that you could apply to join.)
+4) On Tueday, be prepared to report back to the group on your findings. 
+
+
 
 ## <a name="week13">Week 13</a> (Apr 17/19): Getting Your Game on the Market; Reboot Develop Conference
 
