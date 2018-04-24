@@ -3,7 +3,7 @@
 
 # Analog Game Analysis Paper
 
-Write a thorough analysis of a digital game. It should be a game that you have access to here in Dubrovnik, so that you can observe yourself and others playing it. (Alternatively, you can write about a game that you played and observed others playing at Reboot.) 
+Write a thorough analysis of a digital game. It should be one that you've played yourself. You also should have observed others playing it--although that could be observations you made at Reboot, or even videos of gameplay that you've watched. 
 
 Each student must pick a different game to analyze; use Slack to coordinate your choices. 
 
@@ -12,11 +12,11 @@ Each student must pick a different game to analyze; use Slack to coordinate your
 ### Game Details
 At the beginning of the paper, you should fully identify the game you are analyzing, including the name of the publisher and designer (if available), and the year of publication or first appearance (again, if available). Cite your source(s) for this. If you are unable to find the information, describe where you looked for it. 
 
-### Formal Elements
-Identify the formal elements of the game, using either chapter 3 of the Fullerton book, or Greg Costikyan's essay ["I Have No Words & I Must Design"](costikyan.pdf). 
+### Audience
+Who is the audience for the game that you analyzed? Consider both demographics (age, gender, location) and player type (using Quantic Foundry's model, or something comparable). What information did you use to determine the intended and/or actual audience? 
 
-### Gameplay Experience and Dramatic Elements
-Describe your experience of playing the game, as well as observations you have made of others playing it. Using the material from chapter 4 of the Fullerton book, or Costikyan's essay (linked above), analyze why it was fun (or not fun if that was the case)--for you as well as for those you observed. 
+### Mechanics, Dynamics, Aesthetics
+Describe your experience of playing the game, as well as observations you have made of others playing it. Using the MDA framework, discuss how the mechanics of the game enable the dynamics that you observed, and how those in turn generated the aesthetic you experienced/observed. 
 
 Avoid using hyperbole and descriptive adjectives such as "brilliant" or "great." Instead, explain why and how specific game elements work or do not work. You can also discuss how you think that specific elements could be modified to make the game better or more interesting. 
 
