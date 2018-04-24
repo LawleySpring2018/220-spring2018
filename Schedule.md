@@ -163,7 +163,6 @@ For next Tuesday's class:
 4) On Tueday, be prepared to report back to the group on your findings. 
 
 
-
 ## <a name="week13">Week 13</a> (Apr 17/19): Getting Your Game on the Market; Reboot Develop Conference
 
 ### Tuesday Readings
