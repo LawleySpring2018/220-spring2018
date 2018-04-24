@@ -1,7 +1,7 @@
 |  IGME-220: Game Design & Development I, Spring 2018 | [Syllabus](README.md) | [Schedule](Schedule.md) |
 |----|----|----|
 
-# Analog Game Analysis Paper
+# Digital Game Analysis Paper
 
 Write a thorough analysis of a digital game. It should be one that you've played yourself. You also should have observed others playing it--although that could be observations you made at Reboot, or even videos of gameplay that you've watched. 
 
