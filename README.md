@@ -52,7 +52,7 @@ Part 2: Give a 30-60 second pitch for your game idea to the class. At the end, t
 ### [Analog Game Analysis Paper (15%)](analogpaper.md)
 Short paper using an analytic framework to discuss a non-digital game. 
 
-### [Digital Game Analysis Paper](digialpaper.md) (15%)
+### [Digital Game Analysis Paper](digitalpaper.md) (15%)
 Short paper using an analytic framework to discuss a digital game. 
 
 ### Class Participation (5%)
