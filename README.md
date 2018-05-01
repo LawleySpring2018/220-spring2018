@@ -69,7 +69,7 @@ A prototype of your game, suitable for playtesting by other groups.
 ### Group Peer Evaluation (10%)
 You will have an opportunity twice during the semester to evaluate your group members.  
 
-### Group Final Presentations (10%)
+### [Group Final Presentations](finalpresentation.md) (10%)
 Presentation of game concept to me and possibly some outside experts. Evaluation based on quality of idea, comprehensiveness of treatment, and quality of presentation. 
 
 	
